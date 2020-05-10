@@ -20,11 +20,11 @@ function EmployeeCard(props) {
           </li>
         </ul>
       </div>
-      <span onClick={() => props.removeFriend(props.id)} className="remove">
+      <span onClick={() => props.removeEmployee(props.id)} className="remove">
         𝘅
       </span>
     </div>
   );
 }
 
-export default FriendCard;
+export default EmployeeCard;

@@ -1,37 +1,38 @@
 import React, { Component } from "react";
-import FriendCard from "./components/EmployeeCard";
+import EmployeeCard from "./components/EmployeeCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import friends from "./friends.json";
+import employees from "./employees.json";
+import search from "./components/Search";
 
 class App extends Component {
-  // Setting this.state.friends to the friends json array
+  // Setting this.state.employees to the employees json array
   state = {
-    friends
+    employees
   };
 
-  removeFriend = id => {
-    // Filter this.state.friends for friends with an id not equal to the id being removed
-    const friends = this.state.friends.filter(friend => friend.id !== id);
-    // Set this.state.friends equal to the new friends array
-    this.setState({ friends });
+  removeemployee = id => {
+    // Filter this.state.employees for employees with an id not equal to the id being removed
+    const employee = this.state.employee.filter(employee => employee.id !== id);
+    // Set this.state.employees equal to the new employees array
+    this.setState({ employees });
   };
 
-  // Map over this.state.friends and render a FriendCard component for each friend object
+  // Map over this.state.employees and render a EmployeeCard component for each employee object
   render() {
     return (
       <Wrapper>
 
         <Title>Employee List</Title>
-        {this.state.employee.map(friend => (
+        {this.state.employee.map(employee => (
           <EmployeeCard
             removeEmployee={this.removeEmployee}
-            id={friend.id}
-            key={friend.id}
-            name={friend.name}
-            image={friend.image}
-            occupation={friend.occupation}
-            location={friend.location}
+            id={employee.id}
+            key={employee.id}
+            name={employee.name}
+            image={employee.image}
+            occupation={employee.occupation}
+            location={employee.location}
           />
         ))}
       </Wrapper>
