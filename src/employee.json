@@ -1,0 +1,171 @@
+[
+    {
+        "id": 1,
+        "name": "Josiah Bartlet",
+        "image": "./images/Bartlet.png",
+        "occupation": "President",
+        "phone": "913-687-0000",
+        "email": "bartlet@westwing.gov"
+    },
+    {
+        "id": 2,
+        "name": "Leo McGarry",
+        "image": "./images/McGarry.png",
+        "occupation": "Chief of Staff",
+        "phone": "913-687-0001",
+        "email": "mcgarry@westwing.gov"
+    },
+    {
+        "id": 3,
+        "name": "Josh Lyman",
+        "image": "./images/Lyman.png",
+        "occupation": "Deputy Chief of Staff",
+        "phone": "913-687-0002",
+        "email": "lyman@westwing.gov"
+    },
+    {
+        "id": 4,
+        "name": "Toby Ziegler",
+        "image": "./images/Ziegler.png",
+        "occupation": "Communications Director",
+        "phone": "913-687-0003",
+        "email": "ziegler@westwing.gov"
+    },
+    {
+        "id": 5,
+        "name": "Sam Seaborn",
+        "image": "./images/Seaborn.png",
+        "occupation": "Deputy Communications Director",
+        "phone": "913-687-0004",
+        "email": "seaborn@westwing.gov"
+    },
+    {
+        "id": 6,
+        "name": "C.J. Cregg",
+        "image": "./images/Cregg.png",
+        "occupation": "Press Secretary",
+        "phone": "913-687-0005",
+        "email": "Cregg@westwing.gov"
+    },
+    {
+        "id": 7,
+        "name": "Charlie Young",
+        "image": "./images/Young.png",
+        "occupation": "Personal Aide to the President",
+        "phone": "913-687-0006",
+        "email": "Young@westwing.gov"
+    },
+    {
+        "id": 8,
+        "name": "Donna Moss",
+        "image": "./images/Moss.png",
+        "occupation": "Senior Assistant to Josh Lyman",
+        "phone": "913-687-0007",
+        "email": "Moss@westwing.gov"
+    },
+    {
+        "id": 9,
+        "name": "Dr. Abigail Bartlet",
+        "image": "./images/ABartlet.png",
+        "occupation": "First Lady",
+        "phone": "913-687-0008",
+        "email": "Abigail@westwing.gov"
+    },
+    {
+        "id": 10,
+        "name": "Dolores Landingham",
+        "image": "./images/Landingham.png",
+        "occupation": "President's Executive Secretary",
+        "phone": "913-687-0009",
+        "email": "Landingham@westwing.gov"
+    },
+    {
+        "id": 11,
+        "name": "Ed",
+        "image": "./images/Ed.png",
+        "occupation": "White House Staffer",
+        "phone": "913-687-0010",
+        "email": "Ed@westwing.gov"
+    },
+    {
+        "id": 12,
+        "name": "Larry",
+        "image": "./images/Larry.png",
+        "occupation": "White House Staffer",
+        "phone": "913-687-0011",
+        "email": "Larry@westwing.gov"
+    },
+    {
+        "id": 13,
+        "name": "Admiral Percy Fitzwallace",
+        "image": "./images/Fitzwallace.png",
+        "occupation": "Chairman of the Joints Chiefs of Staff",
+        "phone": "913-687-0012",
+        "email": "Fitzwallace@westwing.gov"
+    },
+    {
+        "id": 14,
+        "name": "Dr. Nancy McNally",
+        "image": "./images/McNally.png",
+        "occupation": "National Security Advisor",
+        "phone": "913-687-0013",
+        "email": "McNally@westwing.gov"
+    },
+    {
+        "id": 15,
+        "name": "Ron Butterfield",
+        "image": "./images/Butterfield.png",
+        "occupation": "Head of President's Secret Service",
+        "phone": "913-687-0014",
+        "email": "Butterfield@westwing.gov"
+    },
+    {
+        "id": 16,
+        "name": "Gina Toscano",
+        "image": "./images/Toscano.png",
+        "occupation": "Secret Service Agent",
+        "phone": "913-687-0015",
+        "email": "Toscano@westwing.gov"
+    },
+    {
+        "id": 17,
+        "name": "Mike Casper",
+        "image": "./images/Casper.png",
+        "occupation": "Secret Service Agent",
+        "phone": "913-687-0016",
+        "email": "Casper@westwing.gov"
+    },
+    {
+        "id": 18,
+        "name": "Zoey Bartlet",
+        "image": "./images/Zoey.png",
+        "occupation": "First Daughter",
+        "phone": "913-687-0017",
+        "email": "Zoey@westwing.gov"
+    },
+    {
+        "id": 19,
+        "name": "Joey Lucas",
+        "image": "./images/Lucas.png",
+        "occupation": "Political Consultant",
+        "phone": "913-687-0018",
+        "email": "Lucas@westwing.gov"
+    },
+    {
+        "id": 20,
+        "name": "Kenny Thurman",
+        "image": "./images/Thurman.png",
+        "occupation": "Joey's sign language interpreter",
+        "phone": "913-687-0019",
+        "email": "Thurman@westwing.gov"
+    },
+    {
+        "id": 21,
+        "name": "Matt Santos",
+        "image": "./images/Santos.png",
+        "occupation": "President-Elect",
+        "phone": "913-687-0020",
+        "email": "Santos@westwing.gov"
+    },
+
+]
